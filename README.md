@@ -95,4 +95,4 @@ Les deux rapports sont **fonctionnels en production**. Ce dépôt documente l'en
 
 ## Licence
 
-Usage interne — UHA / DNUM.
+Publié à des fins de démonstration et de partage d'expérience.
